@@ -1,0 +1,13 @@
+# Python-related
+.pytest_cache
+__pycache__
+
+# Coverage
+.coverage
+
+# Editor
+*.swp
+
+# App
+.env
+*.db
