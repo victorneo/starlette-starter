@@ -1,4 +1,4 @@
-from starlette.responses import Response, UJSONResponse as JSONResponse
+from starlette.responses import Response, JSONResponse
 
 
 async def home(request):
